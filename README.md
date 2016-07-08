@@ -4,11 +4,11 @@
 
 So what's this? Well; it's an open source story. Or it will be, if you want! 
 
-The goal of this repository is to teach beginners a propr Git workflow. Unfortunately most schools still barely touch on the subject and even many professional devs don't know how to do this. Learning how to work on your own branch, merging in changes from other branches and submitting Pull Requests to get your changes merged into the main branch is a must for any developer. 
+The goal of this repository is to teach beginners a proper Git workflow. Unfortunately most schools still barely touch on the subject and even many professional devs don't know how to do this. Learning how to work on your own branch, merging in changes from other branches and submitting Pull Requests to get your changes merged into the main branch is a must for any developer. 
 
 ## Who are you?
 
-We are Georg Metzler ([/u/desrtfx](https://www.reddit.com/user/desrtfx)) and Niels Dommerholt ([/u/nutrecht](https://www.reddit.com/user/nutrecht/)) from the [/r/javahelp](https://www.reddit.com/r/javahelp/) and [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) subreddits. Together we have over 30 years of experience as developers, Georg as an embedded developer and Niels as a java backend dev. 
+We are Georg Metzger ([/u/desrtfx](https://www.reddit.com/user/desrtfx)) and Niels Dommerholt ([/u/nutrecht](https://www.reddit.com/user/nutrecht/)) from the [/r/javahelp](https://www.reddit.com/r/javahelp/) and [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) subreddits. Together we have over 30 years of experience as developers, Georg as an embedded developer and Niels as a java backend dev. 
 
 ## How can I join?
 
