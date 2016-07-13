@@ -8,7 +8,7 @@ The goal of this repository is to teach beginners a proper Git workflow. Unfortu
 
 ## Who are you?
 
-We are Georg Metzger ([/u/desrtfx](https://www.reddit.com/user/desrtfx)) and Niels Dommerholt ([/u/nutrecht](https://www.reddit.com/user/nutrecht/)) from the [/r/javahelp](https://www.reddit.com/r/javahelp/) and [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) subreddits. Together we have over 30 years of experience as developers, Georg as an embedded developer and Niels as a java backend dev. 
+We are Georg Metzger ([/u/desrtfx](https://www.reddit.com/user/desrtfx)) and Niels Dommerholt ([/u/nutrecht](https://www.reddit.com/user/nutrecht/)) from the [/r/javahelp](https://www.reddit.com/r/javahelp/) and [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) subreddits. Together we have over 30 years of experience as developers, Georg as an Automation/Control Systems engineer/programmer and Niels as a java backend dev. 
 
 ## How can I join?
 
